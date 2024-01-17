@@ -1,0 +1,15 @@
+{
+    "name": "Timesheet",
+    "alias": "Timesheet",
+    "version": "2.2",
+    "description": "",
+    "keywords": [],
+    "priority": 110,
+    "providers": [
+        "Modules\\Timesheet\\Providers\\TimesheetServiceProvider",
+        "Modules\\Timesheet\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Contract",
+    "alias": "Contract",
+    "version": "2.5",
+    "description": "",
+    "keywords": [],
+    "priority": 300,
+    "providers": [
+        "Modules\\Contract\\Providers\\ContractServiceProvider",
+        "Modules\\Contract\\Providers\\ViewComposer",
+        "Modules\\Contract\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

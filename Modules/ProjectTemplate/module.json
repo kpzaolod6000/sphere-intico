@@ -1,0 +1,16 @@
+{
+    "name": "ProjectTemplate",
+    "alias": "Project Template",
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProjectTemplate\\Providers\\ProjectTemplateServiceProvider",
+        "Modules\\ProjectTemplate\\Providers\\ViewComposer"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "parent_module": ["Taskly"]
+}

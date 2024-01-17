@@ -1,0 +1,15 @@
+{
+    "name": "Performance",
+    "alias": "Performance",
+    "version": "2.4",
+    "description": "Depending on HRM",
+    "keywords": [],
+    "priority": 30.1,
+    "providers": [
+        "Modules\\Performance\\Providers\\PerformanceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "parent_module": ["Hrm"]
+}

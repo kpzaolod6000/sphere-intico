@@ -1,0 +1,16 @@
+{
+    "name": "Workflow",
+    "alias": "Workflow Automation",
+    "version": "1.2",
+    "description": "",
+    "keywords": [],
+    "priority": 390,
+    "providers": [
+        "Modules\\Workflow\\Providers\\WorkflowServiceProvider",
+        "Modules\\Workflow\\Providers\\EventServiceProvider"
+
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

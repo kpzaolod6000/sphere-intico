@@ -1,0 +1,14 @@
+{
+    "name": "CustomField",
+    "alias": "Custom Field",
+    "version": "2.3",
+    "description": "",
+    "keywords": [],
+    "priority": 100,
+    "providers": [
+        "Modules\\CustomField\\Providers\\CustomFieldServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Sales",
+    "alias": "Sales",
+    "version": "2.8",
+    "description": "",
+    "keywords": [],
+    "priority": 60,
+    "providers": [
+        "Modules\\Sales\\Providers\\SalesServiceProvider",
+        "Modules\\Sales\\Providers\\ViewComposer",
+        "Modules\\Sales\\Providers\\EventServiceProvider",
+        "Modules\\Sales\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

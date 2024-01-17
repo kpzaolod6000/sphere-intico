@@ -1,0 +1,14 @@
+{
+    "name": "Internalknowledge",
+    "alias": "Internal Knowledge (KB)",
+    "description": "",
+    "version": "1.0",
+    "keywords": [],
+    "priority": 173,
+    "providers": [
+        "Modules\\Internalknowledge\\Providers\\InternalknowledgeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

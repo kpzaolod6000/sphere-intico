@@ -1,0 +1,11 @@
+.table.modal-table td,
+.table.modal-table th {
+    white-space: normal;
+}
+
+.status-btn{
+    min-width: 80px;
+}
+.invoice-btn{
+    min-width: 94px;
+}

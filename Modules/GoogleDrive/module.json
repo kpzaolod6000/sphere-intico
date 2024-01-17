@@ -1,0 +1,16 @@
+{
+    "name": "GoogleDrive",
+    "alias": "Google Drive",
+    "description": "",
+    "version": "1.0",
+    "keywords": [],
+    "priority": 177,
+    "providers": [
+        "Modules\\GoogleDrive\\Providers\\GoogleDriveServiceProvider",
+        "Modules\\GoogleDrive\\Providers\\AddHookServiceProvider",
+        "Modules\\GoogleDrive\\Providers\\ViewComposer"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

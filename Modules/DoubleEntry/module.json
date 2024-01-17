@@ -1,0 +1,18 @@
+{
+    "name": "DoubleEntry",
+    "alias": "Double Entry",
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 25,
+    "providers": [
+        "Modules\\DoubleEntry\\Providers\\DoubleEntryServiceProvider",
+        "Modules\\DoubleEntry\\Providers\\ViewComposer"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "parent_module": ["Account"],
+    "monthly_price": 10,
+    "yearly_price": 100
+}

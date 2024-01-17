@@ -1,0 +1,12 @@
+{
+    "name": "SupportTicket",
+    "alias": "Support Ticket",
+    "description": "",
+    "keywords": [],
+    "priority": 130,
+    "version":3.0,
+    "providers": [
+        "Modules\\SupportTicket\\Providers\\SupportTicketServiceProvider"
+    ],
+    "files": []
+}

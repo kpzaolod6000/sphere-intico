@@ -1,0 +1,16 @@
+{
+    "name": "SideMenuBuilder",
+    "alias": "Side Menu Builder",
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 412,
+    "providers": [
+        "Modules\\SideMenuBuilder\\Providers\\SideMenuBuilderServiceProvider",
+        "Modules\\SideMenuBuilder\\Providers\\AddHookServiceProvider"
+
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

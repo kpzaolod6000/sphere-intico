@@ -1,0 +1,34 @@
+IP,Date,Time,Accepted-cookies,Device type,Browser anguage,Browser name,OS Name,Country,Region,RegionName,City,Zipcode,Lat,Lon
+49.36.83.154,2023-06-10,11:24:47 UTC,necessary,desktop,en,Chrome,Linux,India,GJ,Gujarat,Surat,395007,21.1888,72.8293
+104.203.241.70,2023-11-17,00:51:21 UTC,necessary,desktop,en,Chrome,Chrome OS,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+104.203.241.70,2023-11-17,01:16:11 UTC,necessary,desktop,en,Chrome,Chrome OS,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+104.203.241.70,2023-11-17,01:48:28 UTC,necessary,desktop,en,Chrome,Chrome OS,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+186.98.77.201,2023-11-17,21:29:42 UTC,necessary,desktop,en,Chrome,Chrome OS,Colombia,DC,Bogota D.C.,Bogotá,111411,4.6115,-74.0833
+186.98.77.201,2023-11-17,22:01:44 UTC,necessary,desktop,en,Chrome,Chrome OS,Colombia,DC,Bogota D.C.,Bogotá,111411,4.6115,-74.0833
+49.36.80.24,2023-11-24,05:47:52 UTC,necessary,desktop,en,Chrome,Linux,India,GJ,Gujarat,Vadodara,390007,22.3008,73.2043
+200.123.0.169,2023-11-24,12:54:52 UTC,necessary,desktop,en,Chrome,Windows,Peru,LIM,Lima region,Lima region,,-11.85,-76.45
+181.66.139.109,2023-11-24,14:53:41 UTC,necessary,desktop,es,Chrome,Windows,Peru,LMA,Lima,Lima,,-12.0432,-77.0282
+104.203.241.70,2023-11-29,23:20:58 UTC,necessary,desktop,en,Chrome,Chrome OS,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+104.203.241.70,2023-11-30,00:01:02 UTC,necessary,desktop,en,Chrome,Chrome OS,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+104.203.241.70,2023-11-30,03:41:00 UTC,necessary,mobile,es,Chrome,Android,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+99.76.33.148,2023-12-01,18:24:36 UTC,necessary,desktop,en,Chrome,Windows,United States,FL,Florida,Weston,33327,26.1168,-80.4299
+191.113.209.206,2023-12-04,18:47:33 UTC,necessary,desktop,es,Chrome,Windows,Chile,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536
+191.113.209.206,2023-12-04,18:47:35 UTC,necessary,desktop,es,Chrome,Windows,Chile,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536
+104.203.241.70,2023-12-05,01:47:36 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+73.0.16.23,2023-12-05,17:13:36 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Weston,33327,26.1168,-80.4299
+104.203.241.70,2023-12-05,17:16:16 UTC,necessary,desktop,es,Edge,Windows,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+23.115.147.199,2023-12-06,21:44:50 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Boca Raton,33487,26.4122,-80.0875
+200.123.0.169,2023-12-12,12:32:21 UTC,necessary,desktop,es,Firefox,Windows,Peru,LIM,Lima region,Lima region,,-11.85,-76.45
+191.95.55.119,2023-12-12,13:35:53 UTC,necessary,mobile,en,Chrome,Android,Colombia,DC,Bogota D.C.,Bogotá,110111,4.6913,-74.032
+104.203.241.70,2023-12-13,16:19:16 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+190.62.18.121,2023-12-16,17:10:31 UTC,necessary,desktop,es,Chrome,Windows,El Salvador,SS,Departamento de San Salvador,San Salvador,,13.6806,-89.1803
+107.115.227.27,2023-12-16,18:38:57 UTC,necessary,mobile,en,Chrome,Android,United States,FL,Florida,Miami,33126,25.7807,-80.2952
+190.62.18.121,2023-12-16,20:09:40 UTC,necessary,mobile,es,Samsung Internet,Android,El Salvador,SS,Departamento de San Salvador,San Salvador,,13.6806,-89.1803
+104.203.241.70,2023-12-26,15:16:33 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+49.36.80.132,2023-12-28,06:16:29 UTC,necessary,desktop,en,Chrome,Linux,India,GJ,Gujarat,Surat,395007,21.1888,72.8293
+138.99.176.146,2024-01-02,16:55:22 UTC,necessary,desktop,en,Edge,Windows,Peru,LMA,Lima,Lima,,-12.0463,-77.0427
+23.115.147.199,2024-01-03,13:35:28 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Boca Raton,33487,26.4122,-80.0875
+201.230.205.201,2024-01-08,15:52:08 UTC,necessary,desktop,es,Chrome,Windows,Peru,ARE,Arequipa,Arequipa,,-16.4014,-71.5343
+104.203.241.70,2024-01-09,16:46:44 UTC,necessary,desktop,es,Chrome,Windows,United States,FL,Florida,Weston,33326,26.1147,-80.3672
+49.36.82.94,2024-01-10,04:26:18 UTC,necessary,desktop,en,Chrome,Linux,India,GJ,Gujarat,Surat,395007,21.1888,72.8293
+49.36.82.94,2024-01-10,04:43:52 UTC,necessary,desktop,en,Chrome,Linux,India,GJ,Gujarat,Surat,395007,21.1888,72.8293
